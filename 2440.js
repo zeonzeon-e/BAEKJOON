@@ -1,5 +1,5 @@
-//https://www.acmicpc.net/problem/2439
-//별 찍기 -2 
+//https://www.acmicpc.net/problem/2440
+//별 찍기 -3 
 
 const readline= require("readline");
 
